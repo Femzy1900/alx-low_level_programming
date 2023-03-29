@@ -1,0 +1,1 @@
+Moew pointers and array
